@@ -70,6 +70,7 @@ header p{
     width: 65%;
     height: 550px;
     column-gap: 1.5rem;
+    row-gap: 0.5rem;
 
 }
 
