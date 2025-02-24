@@ -79,6 +79,7 @@ header p{
     border-radius: 6px;
     height: 275px;
     transition: ease 0s ;
+    transition-duration: 0.5s;
 
 }
 
